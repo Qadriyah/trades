@@ -1,0 +1,17 @@
+[
+  {
+    "product": "T-Shirt",
+    "price": 100,
+    "quantity": 2
+  },
+  {
+    "product": "Shoes",
+    "price": 150,
+    "quantity": 1
+  },
+  {
+    "product": "Jacket",
+    "price": 200,
+    "quantity": 1
+  }
+]
